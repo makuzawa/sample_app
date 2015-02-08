@@ -4,6 +4,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.5'
 gem 'pg', '0.15.1'
+gem 'rails_serve_static_assets','0.0.4'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
